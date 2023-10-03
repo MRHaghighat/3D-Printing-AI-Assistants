@@ -6,7 +6,6 @@ This project aims to leverage AI capabilities to assist in the 3D printing proce
 
 - [Introduction](#introduction)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 
