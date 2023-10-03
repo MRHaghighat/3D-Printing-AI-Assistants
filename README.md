@@ -33,7 +33,7 @@ Open the generate_story.py file and modify the PROMPT variable to set your desir
 
      ```python
      # Set your prompt for generating the story
-     PROMPT = "Once upon a time, in a futuristic world, there was a magical object being 3D printed..."
+     PROMPT = "valve for controlling high pressure gas flow"
 
 
 4. Run the Python script to generate a story or promptThe script will generate a story based on the provided prompt:
