@@ -32,11 +32,11 @@ To use this project, follow these steps:
 Open the generate_story.py file and modify the PROMPT variable to set your desired input for generating a story or prompt for your 3D printing project:
 
      ```python
-     # Set your prompt for generating the story
+     # Set your prompt for generating the sketch
      PROMPT = "valve for controlling high pressure gas flow"
 
 
-4. Run the Python script to generate a story or promptThe script will generate a story based on the provided prompt:
+4. Run the Python script to generate a advice:
 
      ```bash
      python generate_story.py
