@@ -20,21 +20,21 @@ To use this project, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/3D-Printing-AI-Assistants.git
-   cd 3D-Printing-AI-Assistants
+      ```bash
+      git clone https://github.com/yourusername/3D-Printing-AI-Assistants.git
+      cd 3D-Printing-AI-Assistants
 
 2. Set a Prompt for Generating the Story:
 Open the generate_story.py file and modify the PROMPT variable to set your desired input for generating a story or prompt for your 3D printing project:
 
-  ```python
-  # Set your prompt for generating the story
-  PROMPT = "Once upon a time, in a futuristic world, there was a magical object being 3D printed..."
+     ```python
+     # Set your prompt for generating the story
+     PROMPT = "Once upon a time, in a futuristic world, there was a magical object being 3D printed..."
 
 3. Run the Python script to generate a story or promptThe script will generate a story based on the provided prompt:
 
-  ```bash
-  python generate_story.py
+     ```bash
+     python generate_story.py
 
 # Contributing
 We welcome contributions! To contribute to this project, please follow the Contribution Guidelines. Feel free to submit issues or create pull requests.
