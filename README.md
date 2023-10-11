@@ -35,8 +35,15 @@ Open the generate_story.py file and modify the PROMPT variable to set your desir
      # Set your prompt for generating the sketch
      PROMPT = "valve for controlling high pressure gas flow"
 
+The above prompt will generate a sketch like below:
 
-4. Run the Python script to generate a advice:
+![alt text](https://github.com/MRHaghighat/3D-Printing-AI-Assistants/blob/main/img/valve.png)
+
+Once the prompt generates an initial sketch which can be modified by trying different prompt, we gan also get its variation as below:
+
+![alt text](https://github.com/MRHaghighat/3D-Printing-AI-Assistants/blob/main/img/valv-var.png)
+
+4. Run the Python script to generate advice:
 
      ```bash
      python generate_story.py
